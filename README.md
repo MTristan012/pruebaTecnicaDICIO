@@ -39,7 +39,7 @@ características mencionadas más adelante.</li>
 
 <ol>
 <li><strong>Alta de usuario.</strong> Construir un formulario que contenga los siguiente datos y validación de los mismos:</li>
-<ol>
+<ul>
 <li><strong>Formulario</strong></li>
 <ol>
 <li>Nombre (Campo no vacío y solo letras)</li>
