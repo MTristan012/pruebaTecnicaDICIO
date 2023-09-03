@@ -1,8 +1,8 @@
 export default function PrincipalForm() {
   return (
     <div className="card">
-      <div className="card-header">
-        <h2>Formulario</h2>
+      <div className="card-header bg-success">
+        <h2 className="text-white">Formulario</h2>
       </div>
       <div className="card-body">
         <form action="POST">
